@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sprite/1.jpg</file>
+        <file>sprite/2.jpg</file>
+        <file>sprite/3.jpg</file>
+        <file>sprite/4.jpg</file>
+        <file>sprite/5.jpg</file>
+        <file>sprite/6.jpg</file>
+        <file>sprite/7.jpg</file>
+        <file>sprite/8.jpg</file>
+        <file>sprite/9.jpg</file>
+        <file>sprite/10.jpg</file>
+        <file>sprite/11.jpg</file>
+        <file>sprite/12.jpg</file>
+        <file>sprite/13.jpg</file>
+        <file>sprite/14.jpg</file>
+        <file>sprite/15.jpg</file>
+        <file>sprite/new.png</file>
+        <file>sprite/exit.png</file>
+        <file>sprite/about.png</file>
+        <file>sprite/exit2.png</file>
+        <file>sprite/help.png</file>
+        <file>sprite/play.png</file>
+    </qresource>
+</RCC>
